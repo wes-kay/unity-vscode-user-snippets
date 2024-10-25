@@ -1,17 +1,24 @@
-# unity-vscode-user-snippets
-MVC and custom properties for unity vs code user snippets
+# Unity VS Code User Snippets
+MVC and custom properties for Unity VS Code user snippets.
 
-# Modifying C# User Snippets in Visual Studio Code
+## Modifying C# User Snippets in Visual Studio Code
 
-## Open Visual Studio Code:
-
+### Open Visual Studio Code:
 1. Launch Visual Studio Code on your computer.
 
-## Access User Snippets:
+### Access User Snippets:
 
-2. Navigate to the menu bar and click on **File**.
-3. Select **Preferences**, and then choose **User Snippets**.
-4. Choose **C#**.
+#### Method 1: Using the Menu
+1. Navigate to the menu bar and click on **File**.
+2. Select **Preferences**, and then choose **User Snippets**.
+3. Choose **C#**.
+
+#### Method 2: Using the Command Palette (Quick Access)
+1. Press **Ctrl + shift+ P** (Windows/Linux) or **Cmd + shift + P** (Mac) to open the command palette.
+2. Type `>Preferences: Configure User Snippets` and press **Enter**.
+3. Choose **C#**.
+
+This will open the user snippets file where you can modify or add new snippets for your C# scripts in Unity.
 
 ## Locate or Create the Snippet:
 
